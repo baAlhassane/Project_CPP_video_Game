@@ -12,6 +12,7 @@
 /OpenGL-lunix.o
 /OpenGL-macosx.o
 /OpenGL-windows.o
+/cmake-build-debug/*
 <<<<<<< HEAD
 =======
 
