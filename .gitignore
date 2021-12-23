@@ -1,0 +1,14 @@
+/ftk-1.4-lunix/*
+/ftk-1.4-macosx/*
+/ftk-1.4-windows/*
+/fmod/*
+/modeles/*
+/sons/*
+/textures
+/labh.exe
+/labyrinthe.txt
+/labyrinthe.o
+/Makefile-proto
+/OpenGL-lunix.o
+/OpenGL-macosx.o
+/OpenGL-windows.o
