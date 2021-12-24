@@ -1,6 +1,6 @@
-/fltk-1.4-lunix/*
-/fltk-1.4-macosx/*
-/fltk-1.4-windows/*
+/fltk-1.4-lunix
+/fltk-1.4-macosx
+/fltk-1.4-windows
 /fmod/*
 /modeles/*
 /sons/*
