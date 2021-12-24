@@ -1,3 +1,0 @@
-C:/Users/DVEEC/Desktop/CPP2022/cmake-build-debug/CMakeFiles/CPP2022.dir
-C:/Users/DVEEC/Desktop/CPP2022/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/DVEEC/Desktop/CPP2022/cmake-build-debug/CMakeFiles/rebuild_cache.dir
