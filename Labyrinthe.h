@@ -17,7 +17,7 @@ public:
 	char data (int i, int j)
 	{
 		return _data [i][j];
-	}	// retourne la case (i, j).
+	}	// retourne la case (i, j);
 };
 
 #endif

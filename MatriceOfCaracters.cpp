@@ -12,7 +12,8 @@ MatriceOfCaracters::MatriceOfCaracters(const ReadFile &readfile ) {
     for(auto &line:readfile.getLines()){
         std::vector<char> vector_char;
         for(auto car:line){
-            vector_char.push_back(car);
+            vector_char.push_back(static_cast<char>(car));
+
 
         }
 
@@ -22,10 +23,17 @@ MatriceOfCaracters::MatriceOfCaracters(const ReadFile &readfile ) {
 
     }
 
+  nbColumns= readfile.getNbColumns();
+
 }
 
 MatriceOfCaracters::~MatriceOfCaracters() {}
 
 std::vector<std::vector<char>> MatriceOfCaracters::getMatriceofcaracters() const {
     return matriceofcaracters;
+}
+
+std::size_t  MatriceOfCaracters::getNbColumns() const {
+
+    return  nbColumns;
 }

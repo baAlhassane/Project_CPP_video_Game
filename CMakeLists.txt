@@ -39,4 +39,4 @@ add_executable(CPP2022
         Mover.h
         ReadFile.cpp
         ReadFile.h
-        Sound.h)
+        Sound.h Data.cpp Data.h)
