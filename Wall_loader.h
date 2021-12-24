@@ -1,16 +1,14 @@
 //
-// Created by DVEEC on 24/12/2021.
+// Created by DVEEC on 25/12/2021.
 //
 
 #ifndef CPP2022_WALL_LOADER_H
 #define CPP2022_WALL_LOADER_H
 
-
 #include <vector>
 #include <string>
 #include <cctype>
 #include <map>
-#include <stdexcept>
 #include "Environnement.h"
 
 
@@ -60,8 +58,5 @@ struct Maze_wall{
 
 
 };
-
-
-
 
 #endif //CPP2022_WALL_LOADER_H
