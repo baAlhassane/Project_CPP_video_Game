@@ -39,4 +39,5 @@ add_executable(CPP2022
         Mover.h
         ReadFile.cpp
         ReadFile.h
-        Sound.h Data.cpp Data.h)
+        Sound.h Data.cpp Data.h
+        Wall_loader.cpp Wall_loader.h)
